@@ -26,7 +26,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "idct/symfony-form-soft-delete-aware-entity-type": "^1",
+        "idct/symfony-form-soft-delete-aware-entity-type": "^1.0.2",
         "symfony/ux-autocomplete": "^2",
         "symfony/routing": "^6 || ^7"
     },

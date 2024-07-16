@@ -27,8 +27,9 @@ If you install package [idct/symfony-form-soft-delete-aware-entity-type](https:/
 
 ![Success with the plugin](.github/images/2.png "Success")
 
-This package, extension, add support for handling the same way soft deleted entities with `symfony/ux-autocomplete`
+This package, extension, add support for handling the same way soft deleted entities with `symfony/ux-autocomplete`:
 
+![Success with the plugin](.github/images/3.png "Autocomplete")
 
 ## Compatibility
 

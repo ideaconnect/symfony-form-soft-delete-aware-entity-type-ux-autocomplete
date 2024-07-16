@@ -2,7 +2,7 @@ Symfony Form SoftDeleteAware EntityType UX Autocomplete
 ========================================================
 
 ![Tests status](https://github.com/ideaconnect/symfony-form-soft-delete-aware-entity-type-ux-autocomplete/actions/workflows/run-tests.yml/badge.svg "Tests status")
-![Code Coverate](https://coveralls.io/repos/github/ideaconnect/symfony-form-soft-delete-aware-entity-type-ux-autocomplete/badge.svg?branch=main "Code coverage status")
+[![Coverage Status](https://coveralls.io/repos/github/ideaconnect/symfony-form-soft-delete-aware-entity-type-ux-autocomplete/badge.svg?branch=main)](https://coveralls.io/github/ideaconnect/symfony-form-soft-delete-aware-entity-type-ux-autocomplete?branch=main)
 
 The missing link between `softdeleteable` from [doctrine/extensions](https://github.com/doctrine-extensions/DoctrineExtensions), Symfony Form component and
 Symfony UX Autocomplete.

@@ -22,7 +22,7 @@ jobs:
 
     - name: Stop containers
       if: always()
-      run: cd tests/functional && docker-compose -f down
+      run: cd tests/functional && docker compose down -f
 
     - name: Coveralls
       uses: coverallsapp/github-action@v2
